@@ -57,7 +57,7 @@ ul li{
     cursor: pointer;
     display: block;
     margin: 5px 64px;
-    box-shadow: -3px 6px 4px #222;
+    box-shadow: -3px 7px 4px #222;
     transition: 0.5s linear;
 }
 ul li span{
